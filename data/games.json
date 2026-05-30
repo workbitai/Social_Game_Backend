@@ -1,0 +1,42 @@
+[
+  {
+    "gameId": "game_001",
+    "gameName": "Tik_Tac_Toe",
+    "iconUrl": "https://robix-social-games-assets.s3.ap-south-1.amazonaws.com/icons/tic_tac_toe.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.robix.games.arrow.matrix&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/app/id123456",
+    "assetKey": "tic_tac_toe"
+  },
+  {
+    "gameId": "game_002",
+    "gameName": "BallSort",
+    "iconUrl": "https://robix-social-games-assets.s3.ap-south-1.amazonaws.com/icons/Sort.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rax.games.car.sort.master&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/app/id654321",
+    "assetKey": "ballsort"
+  },
+  {
+    "gameId": "game_003",
+    "gameName": "Candy_2048",
+    "iconUrl": "https://robix-social-games-assets.s3.ap-south-1.amazonaws.com/icons/Candy.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rax.games.block.fusion&hl=en",
+    "appStoreUrl": "https://apps.apple.com/app/id987654",
+    "assetKey": "candy_2048"
+  },
+  {
+    "gameId": "game_004",
+    "gameName": "Mystic_Block",
+    "iconUrl": "https://robix-social-games-assets.s3.ap-south-1.amazonaws.com/icons/block_match_btn.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.raxgames.crystal.unblot&hl=en",
+    "appStoreUrl": "https://apps.apple.com/app/id654321",
+    "assetKey": "mystic_block"
+  },
+  {
+    "gameId": "game_005",
+    "gameName": "Knife_Hit_Game",
+    "iconUrl": "https://robix-social-games-assets.s3.ap-south-1.amazonaws.com/icons/PIzza.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.raxgames.crystal.unblot&hl=en",
+    "appStoreUrl": "https://apps.apple.com/app/id654321",
+    "assetKey": "knife_hit"
+  }
+]
