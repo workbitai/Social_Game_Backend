@@ -15,8 +15,8 @@ const __dirname = path.dirname(__filename);
 app.use(cors());
 app.use(express.json());
 
-// app.use("/icons", express.static(path.join(__dirname, "public", "icons")));
-// app.use("/bundles", express.static(path.join(__dirname, "ServerData")));
+app.use("/icons", express.static(path.join(__dirname, "public", "icons")));
+app.use("/bundles", express.static(path.join(__dirname, "ServerData")));
 
 app.get("/", (req, res) => {
     res.send("Backend Running");
